@@ -7,6 +7,9 @@
 
 Organización con apuntes, tareas o todo lo que necesitas para aprobar la materia que estes cursando 👍. Si necesitas ayuda me podes hablar por algún lado y estamos chill ;). En algunas materias no tengo resumenes de teoria ya que me resulta mas facil estudiarlo en formato papel, esa parte.
 
+[![YouTube Badge](https://img.shields.io/badge/-@FaboCOD-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)](https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)
+[![Linkedin Badge](https://img.shields.io/badge/-fabianmartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
+[![Instagram Badge](https://img.shields.io/badge/-@faboart_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/faboart_/)](https://www.instagram.com/faboart_/)
 
 
 ## 📘 Materias de Primero
