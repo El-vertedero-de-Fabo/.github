@@ -5,7 +5,7 @@
 
 ## Proposito
 
-Organización con apuntes, tareas o todo lo que necesitas para aprobar la materia que estes cursando 👍. Si necesitas ayuda te podes hablar por algún lado y estamos chill 
+Organización con apuntes, tareas o todo lo que necesitas para aprobar la materia que estes cursando 👍. Si necesitas ayuda me podes hablar por algún lado y estamos chill ;)
 
 
 
