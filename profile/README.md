@@ -11,6 +11,7 @@ Organización con apuntes, tareas o todo lo que necesitas para aprobar la materi
 [![Linkedin Badge](https://img.shields.io/badge/-fabianmartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
 [![Instagram Badge](https://img.shields.io/badge/-@faboart_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/faboart_/)](https://www.instagram.com/faboart_/)
 ![OpenSea](https://img.shields.io/badge/-@FaboartNFT-2081e2?style=flat-square&labelColor=2081e2&logo=opensea&logoColor=white&link=https://opensea.io/collection/untitled-collection-478941430)
+![Github](https://img.shields.io/badge/-@Fabo-0a0e12?style=flat-square&labelColor=0a0e12&logo=github&logoColor=white&link=https://github.com/Fabian-Martinez1)
 
 
 ## 📘 Materias de Primero
