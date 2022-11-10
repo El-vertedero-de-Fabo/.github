@@ -1,10 +1,8 @@
-<h1 align="center">⚠️ ZonaFabo ⚠️</h1>
+<h1 align="center">🗑️ El vertedero de Fabo</h1>
 
 
- <p><img width="260" align='right' src="https://user-images.githubusercontent.com/55964635/201112099-04d2dfcf-f4e2-4376-8915-c1c0c7f9ebb0.png"></p>
+ <p><img width="260" align='right' src="https://user-images.githubusercontent.com/55964635/201123084-51c52a6d-c88d-40a2-9eb7-85861139e72f.png"></p>
 
-
-## Proposito
 
 Trato de tener aca los proyectos incompletos o que no pude continuar por falta de tiempo
 
