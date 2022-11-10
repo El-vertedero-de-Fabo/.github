@@ -1,7 +1,8 @@
 <h1 align="center">⚠️ ZonaFabo ⚠️</h1>
 
 
- <p><img width="260" align='right' src="https://media.giphy.com/media/4NXCC6jsGoYAU/giphy.gif"></p>
+ <p><img width="260" align='right' src="https://user-images.githubusercontent.com/55964635/201112099-04d2dfcf-f4e2-4376-8915-c1c0c7f9ebb0.png"></p>
+
 
 ## Proposito
 
