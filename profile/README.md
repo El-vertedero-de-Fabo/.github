@@ -1,10 +1,10 @@
 <h1 align="center">🗑️ El vertedero de Fabo</h1>
 
 
- <p><img width="260" align='right' src="https://user-images.githubusercontent.com/55964635/201123084-51c52a6d-c88d-40a2-9eb7-85861139e72f.png"></p>
+![ElVertederoPortada](https://user-images.githubusercontent.com/55964635/201956671-ac017d4f-8193-432c-8348-37d47711ce2c.png)
 
 
-Trato de tener aca los proyectos incompletos o que no pude continuar por falta de tiempo
+### Trato de tener aca los proyectos incompletos o que no pude continuar por falta de tiempo
 
 
 [![YouTube Badge](https://img.shields.io/badge/-@FaboCOD-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)](https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)
